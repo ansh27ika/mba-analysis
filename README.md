@@ -12,3 +12,17 @@
 
 The dataset that is used in this project is publicly available from Kaggle which contains the Transactions data from a bakery from 30/10/2016 to 09/04/2017. The data belongs to a bakery called "The Bread Basket" that serves coffee, bread, muffin, cookies and so on. It is located in the historic center of Edinburgh.
 
+## `Insights`
+
+#### Top 10 best-selling items rank by % and value : Bar charts are used for visualization, it is clear that Coffee (26.7%) is the best-selling item in the bakery, follow by Bread (16.2%) and Tea (7.0%).
+
+#### Time series chart of number of items sold by day : As we can observe,this is the time series chart of number of items sold by day fluctuates a lot thoughout the 159 days of data.
+ 
+
+#### time series chart of number of items by month : Given that the beginning month (October 2016) and ending month (April 2017) are not full month, the total number of items sold by month for the five full month between November 2016 to March 2017 does not fluctuate too much.
+
+#### Average Number by Items Sold by Hour of the Day : Sales starts to pick up from 8am, till the busiest hour of the day at 11am, then slowly drops till the late afternoon. It can be observed that most of the sales transactions took place during the lunch hours of the day
+
+
+#### Average Number of Items Sold by day of week : Saturday is the busiest day of the week with the highest sales (101 items). This is an interesting insight, the owner of the Bakery should launch some promotion activities to boost up sales in the middle of the week when sales are slowest.
+
