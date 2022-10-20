@@ -31,7 +31,7 @@ The dataset that is used in this project is publicly available from Kaggle which
 #### Average Number of Items Sold by day of week : 
 * Saturday is the busiest day of the week with the highest sales (101 items). This is an interesting insight, the owner of the Bakery should launch some promotion activities to boost up sales in the middle of the week when sales are slowest.
 
-### `MBA ANALYSIS` RESULT
+## `MBA ANALYSIS` RESULT
 The output  shows the top 10 itemset sorted by confidence value and all item sets have support value 
 Over 1% and lift value over 1. 
 * The first itemset shows the association rule "if toast then coffee" with support
@@ -46,7 +46,7 @@ Purchase lifts the coffee's purchase by 1.47 times.
 The owner of the bakery "the bread basket" should consider bundling toast and coffee together as a breakfast set or lunch set, 
 theStaff in the store should also be trained to cross-sell coffee to customers who purchase toast, knowing that They are more likely to purchase them together, thereby increasing the store's revenue.
 
-### CONCLUSION 
+## CONCLUSION 
 increase sales and customer satisfaction,.It supports the retail sector in all areas,from predicting sales success to locating customers,it can used 
 in various fields, such as marketing,bioinformatics,education-field,nuclear-science etc
 
